@@ -1,5 +1,5 @@
 body {
-  background-color:#f5f7fa;
+  background-color:#fff;
   padding: 40px;
   font-family: 'Noto-sans', sans-serif;
 }
@@ -59,7 +59,8 @@ body {
 .bio-title {
   font-size: 45px;
   line-height: 1,714;
-  margin-bottom: 40px;
+  margin-top: 28px;
+  margin-bottom: 28px;
   text-align:center;
   font-family: 'Cinzel-Regular-0569', serif;
 }
